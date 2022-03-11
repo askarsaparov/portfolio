@@ -1,7 +1,4 @@
-.idea
-db.sqlite3
-venv
-media
-manage.py
-__pycache__
-askar
+/.idea/
+/db.sqlite3/
+/venv/
+/__pycache__/
